@@ -1,0 +1,286 @@
+<div align="center">
+
+# ⚛️ M3RCU3Y
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&center=true&vCenter=true&width=900&lines=Physics+%2B+Computer+Science;AI+Systems+%7C+Creative+Tools+%7C+Automation;Building+useful+things+from+stray+ideas;Somewhere+between+equations+and+machines" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=M3RCU3Y&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/M3RCU3Y?style=for-the-badge&color=6e40c9&labelColor=111111" alt="GitHub Followers"/>
+<a href="https://brandondeonarine.com">
+  <img src="https://img.shields.io/badge/Portfolio-brandondeonarine.com-00BFFF?style=for-the-badge&labelColor=111111" alt="Portfolio"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🜂 Welcome to the Lab
+
+</div>
+
+I’m **Brandon Deonarine**, also known as **Mercury**.
+
+I study **Physics** and **Computer Science**, and I like building things that sit at the intersection of logic, creativity, automation, and strange little systems that make the world feel more controllable.
+
+My work usually lives somewhere between:
+
+```txt
+  physics        → models, systems, simulations, structure
+  computer sci   → code, abstractions, tools, architecture
+  AI             → agents, workflows, automation, augmentation
+  design         → interfaces that feel clean, fast, and alive
+```
+
+I enjoy turning messy thoughts into working systems.
+
+---
+
+<div align="center">
+
+## ⚙️ Tech Stack
+
+</div>
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css,latex" />
+
+### Tools & Frameworks
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,vite,git,github,vscode,linux" />
+
+### Systems & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,postgres,supabase,githubactions" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧪 What I Like Building
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI & Automation
+
+Tools that help people think, organize, decide, and execute with less friction.
+
+```txt
+agents
+workflows
+dashboards
+personal systems
+automation layers
+```
+
+</td>
+<td width="50%">
+
+### 🧠 Learning Tools
+
+Software for reading, studying, understanding, and moving through information faster.
+
+```txt
+readers
+interfaces
+study systems
+knowledge tools
+flow-based design
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚛️ Physics & Computation
+
+Projects inspired by mathematical structure, simulations, and scientific thinking.
+
+```txt
+models
+experiments
+formal systems
+numerical methods
+research notes
+```
+
+</td>
+<td width="50%">
+
+### 🧩 Creative Interfaces
+
+Small systems with strong design, clean behavior, and a bit of electric personality.
+
+```txt
+web apps
+UI concepts
+interactive tools
+developer utilities
+experimental software
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛰️ Featured Projects
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎧 SoundType
+
+A project exploring sound, typing, interaction, and interface feel.
+
+<a href="https://github.com/M3RCU3Y/SoundType">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M3RCU3Y&repo=SoundType&theme=tokyonight&hide_border=true" />
+</a>
+
+</td>
+<td width="50%">
+
+### 🌊 Flow Reader
+
+A reading-focused tool built around smoother information flow.
+
+<a href="https://github.com/M3RCU3Y/Flow-Reader">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M3RCU3Y&repo=Flow-Reader&theme=tokyonight&hide_border=true" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧬 SSF
+
+A systems project currently in the forge.
+
+<a href="https://github.com/M3RCU3Y/SSF">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M3RCU3Y&repo=SSF&theme=tokyonight&hide_border=true" />
+</a>
+
+</td>
+<td width="50%">
+
+### 🛡️ Guarded FSM Trace Safety
+
+A formal systems project involving guarded finite state machines and trace safety.
+
+<a href="https://github.com/M3RCU3Y/guarded-fsm-trace-safety">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M3RCU3Y&repo=guarded-fsm-trace-safety&theme=tokyonight&hide_border=true" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Atmosphere
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=M3RCU3Y&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3RCU3Y&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=M3RCU3Y&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧭 Current Direction
+
+</div>
+
+```txt
+[01] Build better personal tools
+[02] Explore AI-assisted development
+[03] Turn scattered ideas into usable systems
+[04] Make learning and reading feel smoother
+[05] Keep shipping, refining, and experimenting
+```
+
+---
+
+<div align="center">
+
+## 🜁 Operating Principles
+
+</div>
+
+```txt
+Think clearly.
+Build simply.
+Test honestly.
+Make useful things.
+Reduce friction.
+Let the interface breathe.
+```
+
+---
+
+<div align="center">
+
+## 🌐 Find Me
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/M3RCU3Y">
+  <img src="https://img.shields.io/badge/GitHub-M3RCU3Y-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://brandondeonarine.com">
+  <img src="https://img.shields.io/badge/Website-brandondeonarine.com-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ✦
+
+```txt
+A repository is not just code.
+It is thought becoming structure.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</div>
