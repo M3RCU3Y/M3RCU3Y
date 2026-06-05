@@ -18,7 +18,7 @@
 
 <div align="center">
 
-## 🜂 Welcome to the Lab
+## 🜂 Welcome
 
 </div>
 
@@ -46,82 +46,6 @@ I enjoy turning messy thoughts into working systems.
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css,latex,react,nextjs,nodejs,tailwind,vite,git,github,vscode,linux,docker,postgres,supabase,githubactions&perline=11" />
 
 </div>
-
----
-
-<div align="center">
-
-## 🧪 What I Like Building
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI & Automation
-
-Tools that help people think, organize, decide, and execute with less friction.
-
-```txt
-agents
-workflows
-dashboards
-personal systems
-automation layers
-```
-
-</td>
-<td width="50%">
-
-### 🧠 Learning Tools
-
-Software for reading, studying, understanding, and moving through information faster.
-
-```txt
-readers
-interfaces
-study systems
-knowledge tools
-flow-based design
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⚛️ Physics & Computation
-
-Projects inspired by mathematical structure, simulations, and scientific thinking.
-
-```txt
-models
-experiments
-formal systems
-numerical methods
-research notes
-```
-
-</td>
-<td width="50%">
-
-### 🧩 Creative Interfaces
-
-Small systems with strong design, clean behavior, and a bit of electric personality.
-
-```txt
-web apps
-UI concepts
-interactive tools
-developer utilities
-experimental software
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -192,43 +116,6 @@ A formal systems project involving guarded finite state machines and trace safet
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=M3RCU3Y&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🜁 Operating Principles
-
-</div>
-
-```txt
-Think clearly.
-Build simply.
-Test honestly.
-Make useful things.
-Reduce friction.
-Let the interface breathe.
-```
-
----
-
-<div align="center">
-
-## 🌐 Find Me
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/M3RCU3Y">
-  <img src="https://img.shields.io/badge/GitHub-M3RCU3Y-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://brandondeonarine.com">
-  <img src="https://img.shields.io/badge/Website-brandondeonarine.com-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
 
 </div>
 
