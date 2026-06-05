@@ -43,21 +43,7 @@ I enjoy turning messy thoughts into working systems.
 
 ## ⚙️ Tech Stack
 
-</div>
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css,latex" />
-
-### Tools & Frameworks
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,vite,git,github,vscode,linux" />
-
-### Systems & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=docker,postgres,supabase,githubactions" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css,latex,react,nextjs,nodejs,tailwind,vite,git,github,vscode,linux,docker,postgres,supabase,githubactions&perline=11" />
 
 </div>
 
@@ -149,24 +135,22 @@ experimental software
 <tr>
 <td width="50%">
 
-### 🎧 SoundType
+### 🎧 [SoundType](https://github.com/M3RCU3Y/SoundType)
 
 A project exploring sound, typing, interaction, and interface feel.
 
-<a href="https://github.com/M3RCU3Y/SoundType">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M3RCU3Y&repo=SoundType&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/github/stars/M3RCU3Y/SoundType?style=flat-square&label=stars" />
 
 </td>
 <td width="50%">
 
-### 🌊 Flow Reader
+### 🌊 [Flow Reader](https://github.com/M3RCU3Y/Flow-Reader)
 
 A reading-focused tool built around smoother information flow.
 
-<a href="https://github.com/M3RCU3Y/Flow-Reader">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M3RCU3Y&repo=Flow-Reader&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/github/stars/M3RCU3Y/Flow-Reader?style=flat-square&label=stars" />
 
 </td>
 </tr>
@@ -174,24 +158,22 @@ A reading-focused tool built around smoother information flow.
 <tr>
 <td width="50%">
 
-### 🧬 SSF
+### 🧬 [SSF](https://github.com/M3RCU3Y/SSF)
 
-A systems project currently in the forge.
+Reproducible split-step Fourier diagnostics for the 1D time-dependent Schrodinger equation.
 
-<a href="https://github.com/M3RCU3Y/SSF">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M3RCU3Y&repo=SSF&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/github/stars/M3RCU3Y/SSF?style=flat-square&label=stars" />
 
 </td>
 <td width="50%">
 
-### 🛡️ Guarded FSM Trace Safety
+### 🛡️ [Guarded FSM Trace Safety](https://github.com/M3RCU3Y/guarded-fsm-trace-safety)
 
 A formal systems project involving guarded finite state machines and trace safety.
 
-<a href="https://github.com/M3RCU3Y/guarded-fsm-trace-safety">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M3RCU3Y&repo=guarded-fsm-trace-safety&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/github/stars/M3RCU3Y/guarded-fsm-trace-safety?style=flat-square&label=stars" />
 
 </td>
 </tr>
@@ -203,35 +185,15 @@ A formal systems project involving guarded finite state machines and trace safet
 
 ## 📊 GitHub Atmosphere
 
-</div>
+<img src="https://img.shields.io/github/followers/M3RCU3Y?style=for-the-badge&label=Followers&color=6e40c9&labelColor=111111" />
+<img src="https://img.shields.io/github/stars/M3RCU3Y?style=for-the-badge&label=Profile%20Stars&color=00BFFF&labelColor=111111" />
+<img src="https://komarev.com/ghpvc/?username=M3RCU3Y&style=for-the-badge&color=blueviolet" />
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=M3RCU3Y&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3RCU3Y&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=M3RCU3Y&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
----
-
-<div align="center">
-
-## 🧭 Current Direction
-
-</div>
-
-```txt
-[01] Build better personal tools
-[02] Explore AI-assisted development
-[03] Turn scattered ideas into usable systems
-[04] Make learning and reading feel smoother
-[05] Keep shipping, refining, and experimenting
-```
 
 ---
 
