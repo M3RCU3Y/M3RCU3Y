@@ -115,7 +115,7 @@ A formal systems project involving guarded finite state machines and trace safet
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=M3RCU3Y&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="./profile/streak.svg" alt="GitHub Streak" />
 
 </div>
 
