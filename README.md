@@ -1,8 +1,6 @@
 <div align="center">
 
-# ⚛️ M3RCU3Y
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&center=true&vCenter=true&width=900&lines=Physics+%2B+Computer+Science;AI+Systems+%7C+Creative+Tools+%7C+Automation;Building+useful+things+from+stray+ideas;Somewhere+between+equations+and+machines" alt="Typing SVG" />
+<img src="./assets/m3rcury-lockup.svg" alt="M3RCU3Y — physics, computation, and creative systems" width="760" />
 
 <br/>
 

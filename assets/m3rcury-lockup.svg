@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">M3RCU3Y</title>
+  <desc id="desc">A refined orbital mark and wordmark for M3RCU3Y, blending physics, computation, and creative systems.</desc>
+
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#27345f"/>
+      <stop offset="0.52" stop-color="#151d3a"/>
+      <stop offset="1" stop-color="#10152b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#74e7ff"/>
+      <stop offset="0.48" stop-color="#8c7bff"/>
+      <stop offset="1" stop-color="#e68cff"/>
+    </linearGradient>
+    <linearGradient id="wordmark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f5fbff"/>
+      <stop offset="0.55" stop-color="#d6d8ff"/>
+      <stop offset="1" stop-color="#a7eaff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#6d7cff" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#6d7cff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="clip">
+      <rect x="8" y="8" width="1184" height="284" rx="40"/>
+    </clipPath>
+  </defs>
+
+  <rect x="8" y="8" width="1184" height="284" rx="40" fill="url(#frame)" stroke="#5d6bb3" stroke-opacity="0.42" stroke-width="2"/>
+  <g clip-path="url(#clip)">
+    <circle cx="168" cy="150" r="150" fill="url(#glow)"/>
+    <path d="M 8 248 C 240 174, 328 278, 566 230 S 960 174, 1192 226" fill="none" stroke="#ffffff" stroke-opacity="0.055" stroke-width="2"/>
+    <path d="M 8 268 C 240 194, 328 298, 566 250 S 960 194, 1192 246" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+  </g>
+
+  <g transform="translate(168 150)" fill="none" stroke="url(#accent)" stroke-linecap="round" filter="url(#softGlow)">
+    <ellipse rx="86" ry="34" transform="rotate(-28)" stroke-width="4" stroke-opacity="0.95"/>
+    <ellipse rx="86" ry="34" transform="rotate(28)" stroke-width="4" stroke-opacity="0.78"/>
+    <ellipse rx="86" ry="34" transform="rotate(90)" stroke-width="4" stroke-opacity="0.62"/>
+    <circle r="16" fill="#10152b" stroke-width="4"/>
+    <circle r="7" fill="url(#accent)" stroke="none"/>
+    <circle cx="75" cy="-39" r="5" fill="#74e7ff" stroke="none"/>
+    <circle cx="-67" cy="47" r="4" fill="#e68cff" stroke="none"/>
+  </g>
+
+  <g transform="translate(318 0)" fill="url(#wordmark)" font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="0" y="156" font-size="92" font-weight="700" letter-spacing="9">M3RCU3Y</text>
+    <rect x="4" y="184" width="520" height="2" rx="1" fill="url(#accent)" opacity="0.85"/>
+    <text x="4" y="220" font-size="17" font-weight="600" letter-spacing="5" fill="#b9c8f6">PHYSICS  ·  COMPUTATION  ·  CREATIVE SYSTEMS</text>
+    <text x="4" y="253" font-size="14" font-weight="400" letter-spacing="2.2" fill="#8797c6">BUILDING USEFUL THINGS FROM STRAY IDEAS</text>
+  </g>
+
+  <g fill="#b9c8f6" opacity="0.7">
+    <circle cx="1083" cy="77" r="2"/>
+    <circle cx="1120" cy="95" r="1.5"/>
+    <circle cx="1072" cy="113" r="1"/>
+    <circle cx="1146" cy="226" r="2"/>
+    <circle cx="1103" cy="244" r="1"/>
+  </g>
+</svg>
