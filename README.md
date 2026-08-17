@@ -59,7 +59,7 @@ I enjoy turning messy thoughts into working systems.
 
 ### 🎧 [SoundType](https://github.com/M3RCU3Y/SoundType)
 
-A project exploring sound, typing, interaction, and interface feel.
+A local-first Windows keyboard sound studio with app-specific rules, mixing and effects, customizable sound packs, privacy-first input handling, and a tested portable v1.0 release.
 
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/github/stars/M3RCU3Y/SoundType?style=flat-square&label=stars" />
@@ -69,7 +69,7 @@ A project exploring sound, typing, interaction, and interface feel.
 
 ### 🌊 [Flow Reader](https://github.com/M3RCU3Y/Flow-Reader)
 
-A reading-focused tool built around smoother information flow.
+A local-first browser reading workspace with RSVP and Bionic modes, PDF/DOCX/TXT/article imports, OCR fallback, bookmarks and notes, themes, progress persistence, and installable PWA support.
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/github/stars/M3RCU3Y/Flow-Reader?style=flat-square&label=stars" />
